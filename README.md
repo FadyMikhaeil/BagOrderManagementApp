@@ -28,7 +28,6 @@ A **C# Windows Forms** application for managing bag orders, calculating costs, a
 1. **Clone the repository** to your local machine:
    ```bash
    git clone https://github.com/FadyMikhaeil/BagOrderManagementApp.git
-## Screenshots
 
 ## Screenshots
 
@@ -37,13 +36,6 @@ A **C# Windows Forms** application for managing bag orders, calculating costs, a
 
 2. **Order Summary:**
    ![Order Summary](screenshots/order_summary.png)
-
-## Contributing
-
-Contributions are welcome! If you'd like to improve this project, please:
-1. Fork the repository.
-2. Create a new branch for your changes.
-3. Submit a pull request with a detailed description of your changes.
 
 ## Contact
 
